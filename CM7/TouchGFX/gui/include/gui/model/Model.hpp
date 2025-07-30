@@ -1,5 +1,6 @@
 #ifndef MODEL_HPP
 #define MODEL_HPP
+#include <cstdint>
 
 class ModelListener;
 
@@ -17,5 +18,6 @@ public:
 protected:
     ModelListener* modelListener;
 };
+extern uint32_t __attribute__((section(".share_data"))) num;
 
 #endif // MODEL_HPP

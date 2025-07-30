@@ -14,6 +14,8 @@ public:
     {
         model = m;
     }
+        virtual void updateNumber(uint32_t number) {}
+
 protected:
     Model* model;
 };

@@ -24,8 +24,9 @@ public:
      * (ie. made inactive). Teardown functionality can be placed here.
      */
     virtual void deactivate();
-
+    //virtual void setNumber(int number) ;
     virtual ~mainPresenter() {}
+    virtual void updateNumber(uint32_t number) override;
 
 private:
     mainPresenter();

@@ -11,6 +11,7 @@ public:
     virtual ~mainView() {}
     virtual void setupScreen();
     virtual void tearDownScreen();
+    virtual void setNum(int number);
 protected:
 };
 

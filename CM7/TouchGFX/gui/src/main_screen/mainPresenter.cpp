@@ -16,3 +16,8 @@ void mainPresenter::deactivate()
 {
 
 }
+
+void mainPresenter::updateNumber(uint32_t number)
+{
+    view.setNum(number);
+}

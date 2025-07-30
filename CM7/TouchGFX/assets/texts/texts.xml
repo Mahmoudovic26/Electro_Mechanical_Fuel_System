@@ -5,10 +5,166 @@
   </Languages>
   <Texts>
     <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_IGP7" Alignment="Left" TypographyId="Header">
+        <Translation Language="GB">LT-EMFS</Translation>
+      </Text>
+      <Text Id="__SingleUse_CA6J" Alignment="Left" TypographyId="Header">
+        <Translation Language="GB">Electro-Mechanical Fuel System</Translation>
+      </Text>
+      <Text Id="__SingleUse_9E6P" Alignment="Left" TypographyId="midTitles">
+        <Translation Language="GB">TC</Translation>
+      </Text>
+      <Text Id="__SingleUse_KUD2" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_PJS0" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;°F</Translation>
+      </Text>
+      <Text Id="__SingleUse_2NBG" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">RTM</Translation>
+      </Text>
+      <Text Id="__SingleUse_P0PI" Alignment="Left" TypographyId="midTitles">
+        <Translation Language="GB">RTD</Translation>
+      </Text>
+      <Text Id="__SingleUse_D5CU" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">EMU</Translation>
+      </Text>
+      <Text Id="__SingleUse_KU7D" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">123.37</Translation>
+      </Text>
+      <Text Id="__SingleUse_4OPW" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;°C</Translation>
+      </Text>
+      <Text Id="__SingleUse_RZ82" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">RTM</Translation>
+      </Text>
+      <Text Id="__SingleUse_31WV" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">EMU</Translation>
+      </Text>
+      <Text Id="__SingleUse_TAWX" Alignment="Left" TypographyId="midTitles">
+        <Translation Language="GB">NPT2</Translation>
+      </Text>
+      <Text Id="__SingleUse_WDUJ" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">9999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_DKY3" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;V</Translation>
+      </Text>
+      <Text Id="__SingleUse_9L1M" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">9999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_6QBD" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;Hz</Translation>
+      </Text>
+      <Text Id="__SingleUse_MJD5" Alignment="Left" TypographyId="midTitles">
+        <Translation Language="GB">NPT1</Translation>
+      </Text>
+      <Text Id="__SingleUse_SC8N" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">9999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_SCAL" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;V</Translation>
+      </Text>
+      <Text Id="__SingleUse_IVH9" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">9999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_M0LW" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;Hz</Translation>
+      </Text>
+      <Text Id="__SingleUse_3N4P" Alignment="Left" TypographyId="midTitles">
+        <Translation Language="GB">NH2</Translation>
+      </Text>
+      <Text Id="__SingleUse_CCIM" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">9999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q4VI" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;V</Translation>
+      </Text>
+      <Text Id="__SingleUse_VI2Z" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">9999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_3MHM" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;Hz</Translation>
+      </Text>
+      <Text Id="__SingleUse_1MI4" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">9999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_0MVT" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;Hz</Translation>
+      </Text>
+      <Text Id="__SingleUse_T8LU" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">9999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_4L4N" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;V</Translation>
+      </Text>
+      <Text Id="__SingleUse_JL3V" Alignment="Left" TypographyId="midTitles">
+        <Translation Language="GB">NH1</Translation>
+      </Text>
+      <Text Id="__SingleUse_7MR8" Alignment="Left" TypographyId="botomValues">
+        <Translation Language="GB">9999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_RJMM" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">&lt;value&gt;Hz</Translation>
+      </Text>
+      <Text Id="__SingleUse_D4B5" Alignment="Left" TypographyId="midTitles">
+        <Translation Language="GB">Output Frequancy</Translation>
+      </Text>
+      <Text Id="__SingleUse_LUPO" Alignment="Left" TypographyId="values">
+        <Translation Language="GB">9999</Translation>
+      </Text>
+      <Text Id="__SingleUse_T1AD" Alignment="Center" TypographyId="values">
+        <Translation Language="GB">&lt;value&gt;hr</Translation>
+      </Text>
+      <Text Id="__SingleUse_DU7W" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Time</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZOYG" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">DISCONNECTED</Translation>
+      </Text>
+      <Text Id="__SingleUse_MT6T" Alignment="Center" TypographyId="midTitles">
+        <Translation Language="GB">VFD Controller</Translation>
+      </Text>
+      <Text Id="__SingleUse_T4AV" Alignment="Center" TypographyId="botomValues">
+        <Translation Language="GB">CONNECTED</Translation>
+      </Text>
+      <Text Id="__SingleUse_U3T9" Alignment="Left" TypographyId="values">
+        <Translation Language="GB">9999.99</Translation>
+      </Text>
+      <Text Id="__SingleUse_E0SQ" Alignment="Center" TypographyId="values">
+        <Translation Language="GB">&lt;value&gt;V</Translation>
+      </Text>
+      <Text Id="__SingleUse_TMFN" Alignment="Left" TypographyId="values">
+        <Translation Language="GB">9999</Translation>
+      </Text>
+      <Text Id="__SingleUse_AN0N" Alignment="Center" TypographyId="values">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_SJK7" Alignment="Left" TypographyId="midTitles">
+        <Translation Language="GB">Cable Status</Translation>
+      </Text>
+      <Text Id="__SingleUse_IVLA" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">System Voltage</Translation>
+      </Text>
+      <Text Id="__SingleUse_VNJ1" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">RPM</Translation>
+      </Text>
+      <Text Id="__SingleUse_BWKL" Alignment="Left" TypographyId="Header">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_46TY" Alignment="Center" TypographyId="Header">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
   </Texts>
   <Typographies>
-    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
-    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Header" Font="verdanab.ttf" Size="35" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="35" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
     <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="values" Font="verdanab.ttf" Size="35" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="midTitles" Font="verdana.ttf" Size="30" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="botomValues" Font="verdanab.ttf" Size="30" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
   </Typographies>
 </TextDatabase>
